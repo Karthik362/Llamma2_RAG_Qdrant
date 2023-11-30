@@ -20,7 +20,8 @@ To run using Flask :
 
 Setup :
 
-pip install torch \
+pip install Flask \
+  torch \
   transformers==4.31.0 \
   sentence-transformers==2.2.2 \
   pinecone-client==2.2.2 \
