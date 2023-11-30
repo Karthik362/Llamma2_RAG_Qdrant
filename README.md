@@ -6,6 +6,8 @@ Setup:
 
 Upload bigBasketProducts.zip file by compressing the csv file as zip. ( This is for faster upload )
 
+Use Gpu T4 which is provided freely as runtime. 
+
 Inference:
 
 Some references are attached at the end of the notebook
