@@ -1,6 +1,7 @@
 # Chaabi_Assignment
 
 To run in google colab:
+Use the Assignment.ipynb file
 
 Setup:
 
@@ -29,7 +30,7 @@ Some example queries :
 'result': '\n\nHerbal Strategi Just Mop - Herbal Floor Cleaner, Disinfectant, Insect Repellent is a revolutionary product which is free from harsh chemicals. This is a natural disinfectant. This Herbal Strategi product contains natural oils and plant extracts. This natural disinfectant is a versatile cleaning product. It not just cleanses stains, but also does kill germs and act as repellent to the insects. The refreshing lemon grass fragrance is a boon to this product.\n\nColin Cleaner Glass and Household has vinegar as the main ingredient known for its strong cleansing action. It removes the dust from your surfaces and makes them spick and span. It is not too harsh on the skin and this formula doesn’t even bother your nose. It makes cleaning all kinds of glass surfaces and appliances a breeze.The Sponge Wipe is a one swipe cleaner for kitchen countertops, tables, and other kitchen appliances.'
 
 To run using Flask :
-
+Use app.py , untitled.py , Templates folder .
 Setup :
 
 pip install Flask \
