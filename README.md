@@ -1,9 +1,13 @@
 # Chaabi_Assignment
 
 To run in google colab:
+
 Setup:
+
 Upload bigBasketProducts.zip file by compressing the csv file as zip. ( This is for faster upload )
+
 Inference:
+
 Some references are attached at the end of the notebook
 
 Run every cell in the colab notebook and add a cell :-
