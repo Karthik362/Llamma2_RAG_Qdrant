@@ -5,6 +5,7 @@ Setup:
 Run the installation cell in the notebook
 
 Inference:
+Some references are attached at the end of the notebook
 
 Run every cell in the colab notebook and add a cell :-
   rag_pipeline(prompt) 
