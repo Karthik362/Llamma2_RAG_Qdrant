@@ -1,4 +1,4 @@
-# Chaabi_Assignment
+# LLAMA2_RAG_QDRANT
 
 To run in google colab:
 Use the Assignment.ipynb file
